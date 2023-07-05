@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/spoudaios-blog/test/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/spoudaios-blog/test/","title":"spoudaios","tags":["gardenEntry"]}
 ---
 
 
