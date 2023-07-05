@@ -13,4 +13,4 @@ Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie co
 
 ## Artikel
 
-- "Wohlwollen" - nach Robert Spaemann 05.07.2023
+- "Wohlwollen" - nach Robert Spaemann
