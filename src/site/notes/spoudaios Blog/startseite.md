@@ -7,7 +7,7 @@
 
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. 
 
-[Über diesen Blog](about)
+[[spoudaios Blog/about\|about]] - Über diesen Blog
 
 ---
 
