@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/spoudaios-blog/about/","title":"spoudaios - Über diesen Blog","tags":["About"]}
+{"dg-publish":true,"permalink":"/spoudaios-blog/about/","title":"spoudaios - Über diesen Blog"}
 ---
 
 [[spoudaios Blog/startseite\|startseite]] - Zurück zur Startseite
