@@ -4,4 +4,6 @@
 
 [[spoudaios Blog/startseite\|startseite]] - Zurück zur Startseite
 
+---
+
 # Über diesen Blog
