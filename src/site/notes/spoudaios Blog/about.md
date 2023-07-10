@@ -8,4 +8,6 @@
 
 # Über diesen Blog
 
-Ich arbeite meinen Buchbestand auf, den ich in den letzten dreißig Jahren angesammelt habe. Bei dieser Gelegenheit möchte ich ein älteres Vorhaben in die Tat umsetzen, indem ich meine Notizen zu Autoren, deren Büchern und Themen in diesem kleinen Blog veröffentliche, in der Hoffnung, daß es für den ein oder anderen Leser interessant oder sogar nützlich sein kann. 
+Ich arbeite meinen Buchbestand auf, den ich in den letzten dreißig Jahren angesammelt habe. Bei dieser Gelegenheit möchte ich ein älteres Vorhaben verwirklichen, meine Notizen zu Autoren, deren Büchern und Themen, in einem kleinen Blog zu veröffentlichen. Zum einen frischt es meine Lesegedanken wieder auf, zum anderen hoffe ich, daß es für den ein oder anderen Besucher interessant oder sogar nützlich sein kann.
+
+Das allgemeine Leitmotiv dieses Blogs ist der aristotelische **spoudaios**.
