@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/spoudaios-blog/about/","title":"spoudaios - about"}
 ---
 
-[[startseite\|startseite]] - Zurück zur Startseite
+[[spoudaios Blog/start\|start]] - Zurück zur Startseite
 
 ---
 
