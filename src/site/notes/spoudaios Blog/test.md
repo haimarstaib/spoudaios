@@ -8,5 +8,4 @@
 
 # Das ist nur ein Test
 
-Das ist nur ein Test. Das Template ist angepasst.
-Aber der Font wird nicht übernommen. Typewriter.
+Test Text.
