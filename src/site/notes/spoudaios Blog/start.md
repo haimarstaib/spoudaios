@@ -17,5 +17,3 @@ Rudolf Schottlaender, Der aristotelische "spoudaios", Zeitschrift für philosop
 ## Artikel
 
 - Duis autem vel eum iriure dolor in hendrerit
-- Änderungen vom iPhone. Kann ich mit dieser subdomain Leben?
-- [[spoudaios Blog/test\|test]] - Das ist nur ein Test
